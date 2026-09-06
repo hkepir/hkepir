@@ -13,17 +13,6 @@
   <img src="./assets/lunar-divider-light-v2.gif" alt="Animated crescent divider" width="100%">
 </picture>
 
-Technologies
-
-Languages
-Python Java C JavaScript SQL
-
-Web
-HTML5 CSS3
-
-Tools
-Git GitHub
-
 Currently Building
 
 cs-btu-dersnotlari
