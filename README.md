@@ -7,9 +7,22 @@
   with a focus on problem solving, software design, and clean code.
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/botanical-dark.gif">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/botanical-light.gif">
+  <img
+    src="./assets/botanical-light.gif"
+    alt="Animated botanical divider"
+    width="100%">
+</picture>
+
 <h3>TECHNOLOGIES</h3>
 
-<table>
+<table width="100%">
   <tr>
     <td width="150"><strong>Languages</strong></td>
     <td>Python · Java · C · JavaScript · SQL</td>
