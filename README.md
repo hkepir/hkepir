@@ -1,6 +1,6 @@
-<h1>Hilal Kepir</h1>
+<h1>Hilal Kepir ☾</h1>
 
-<p>Computer Science Student · Software Development</p>
+<p><strong>Computer Science Student · Software Development</strong></p>
 
 <p>
   Building practical projects across frontend and backend,<br>
@@ -8,63 +8,24 @@
 </p>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/botanical-dark.gif">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/botanical-light.gif">
-  <img
-    src="./assets/botanical-light.gif"
-    alt="Animated botanical divider"
-    width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lunar-divider-dark-v2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/lunar-divider-light-v2.gif">
+  <img src="./assets/lunar-divider-light-v2.gif" alt="Animated crescent divider" width="100%">
 </picture>
 
-<h4>TECHNOLOGIES</h4>
+Technologies
 
-<div>
-  <strong>Languages</strong>
-  &emsp;&emsp;
-  Python · Java · C · JavaScript · SQL
-</div>
+Languages
+Python Java C JavaScript SQL
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/separator-dark.png">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/separator-light.png">
-  <img
-    src="./assets/separator-light.png"
-    alt=""
-    width="100%"
-    height="1">
-</picture>
+Web
+HTML5 CSS3
 
-<div>
-  <strong>Web</strong>
-  &emsp;&emsp;&emsp;&emsp;&emsp;
-  HTML5 · CSS3
-</div>
+Tools
+Git GitHub
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/separator-dark.png">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/separator-light.png">
-  <img
-    src="./assets/separator-light.png"
-    alt=""
-    width="100%"
-    height="1">
-</picture>
+Currently Building
 
-<div>
-  <strong>Tools</strong>
-  &emsp;&emsp;&emsp;&emsp;
-  Git · GitHub
-</div>
+cs-btu-dersnotlari
 
+Structured Computer Science course notes, code examples, and exercises.
