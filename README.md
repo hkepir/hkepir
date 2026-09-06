@@ -68,14 +68,3 @@
   Git · GitHub
 </div>
 
-<h4>ONGOING</h4>
-
-<p>
-  <a href="https://github.com/hkepir/cs-btu-dersnotlari">
-    <strong>cs-btu-dersnotlari</strong>
-  </a>
-  &emsp;&emsp;
-  <sub>
-    Structured Computer Science course notes, code examples, and exercises.
-  </sub>
-</p>
