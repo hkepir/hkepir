@@ -22,27 +22,22 @@
 
 <h4>TECHNOLOGIES</h4>
 
-<table width="100%">
-  <tr>
-    <td width="150"><strong>Languages</strong></td>
-    <td>Python · Java · C · JavaScript · SQL</td>
-  </tr>
-  <tr>
-    <td><strong>Web</strong></td>
-    <td>HTML5 · CSS3</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git · GitHub</td>
-  </tr>
-</table>
+<p><strong>Languages</strong>&emsp;&emsp;Python · Java · C · JavaScript · SQL</p>
+
+<hr>
+
+<p><strong>Web</strong>&emsp;&emsp;&emsp;&emsp;&emsp;HTML5 · CSS3</p>
+
+<hr>
+
+<p><strong>Tools</strong>&emsp;&emsp;&emsp;&emsp;Git · GitHub</p>
 
 <h4>ONGOING</h4>
 
 <p>
-  <strong>
-    <a href="https://github.com/hkepir/cs-btu-dersnotlari">cs-btu-dersnotlari</a>
-  </strong>
+  <a href="https://github.com/hkepir/cs-btu-dersnotlari">
+    <strong>cs-btu-dersnotlari</strong>
+  </a>
+  &emsp;&emsp;
+  <sub>Structured Computer Science course notes, code examples, and exercises.</sub>
 </p>
-
-<p>Structured Computer Science course notes, code examples, and exercises.</p>
