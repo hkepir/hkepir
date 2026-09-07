@@ -1,11 +1,14 @@
-<p>
-  <h1>Hilal Kepir</h1><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/crescent-divider-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/crescent-divider-light.gif">
-    <img src="./assets/crescent-divider-light.gif" alt="Animated crescent divider" width="100%">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/name-light.svg">
+  <img src="./assets/name-light.svg" alt="Hilal Kepir" width="280" height="46">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/crescent-divider-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/crescent-divider-light.gif">
+  <img src="./assets/crescent-divider-light.gif" alt="Animated crescent divider" width="100%">
+</picture>
 
 **Computer Science Student · Software Development**
 
