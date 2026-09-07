@@ -1,8 +1,8 @@
-Hilal Kepir
+# Hilal Kepir
+**Computer Science Student · Software Development**
 
-Computer Science Student · Software Development
-
-I am a Computer Science student building a strong foundation in both frontend and backend development. I enjoy turning what I learn into practical projects and approaching problems with an emphasis on thoughtful software design, clarity, and maintainable code.
+Learning frontend and backend development through practical projects,
+with a focus on clear, maintainable code.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/crescent-divider-dark.gif">
@@ -10,20 +10,21 @@ I am a Computer Science student building a strong foundation in both frontend an
   <img src="./assets/crescent-divider-light.gif" alt="Animated crescent divider" width="100%">
 </picture>
 
-Technical Toolkit
+## Technical Toolkit
 
-Languages: Python Java C JavaScript SQL
+- **Languages:** Python · Java · C · JavaScript · SQL
+- **Web:** HTML5 · CSS3
+- **Tools:** Git · GitHub
 
-Web: HTML5 CSS3
+## Featured Project
 
-Tools: Git GitHub
+### cs-btu-dersnotlari
 
-Currently Building
+Computer Science course notes, code examples, and exercises
+organized for easier study and review.
 
-cs-btu-dersnotlari
+## Current Focus
 
-An organized collection of Computer Science course notes, code examples, and exercises. The repository brings related learning materials together in one place, making them easier to review and turning theoretical topics into practical examples.
-
-Current Focus
-
-I am currently focused on improving my problem-solving process, writing cleaner code, and gaining more hands-on experience across frontend and backend development. My goal is to build projects that are not only functional, but also understandable, maintainable, and thoughtfully designed.
+- Strengthening problem-solving skills
+- Building practical frontend and backend projects
+- Improving code structure and readability
