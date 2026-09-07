@@ -1,4 +1,4 @@
-<h5>Hilal Kepir</h5>
+<h1>Hilal Kepir</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/crescent-divider-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/crescent-divider-light.gif">
