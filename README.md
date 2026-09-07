@@ -1,8 +1,3 @@
-<picture>
-  <img src="./assets/name-dark.svg" alt="Hilal Kepir" width="280" height="46">
-<br>
-<img src="./assets/crescent-divider-dark.gif" alt="Animated crescent divider" width="100%">
-</picture>
 <br>
 <picture>
   <img src="./assets/name-dark.svg" alt="Hilal Kepir" width="280" height="46">
