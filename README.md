@@ -1,14 +1,14 @@
-# Hilal Kepir
-**Computer Science Student · Software Development**
-
-I’m a Computer Science student exploring frontend and backend development.
-I enjoy turning what I learn into practical projects with clear, maintainable code.
-
+<h3>Hilal Kepir</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/crescent-divider-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/crescent-divider-light.gif">
   <img src="./assets/crescent-divider-light.gif" alt="Animated crescent divider" width="100%">
 </picture>
+
+**Computer Science Student · Software Development**
+
+I’m a Computer Science student exploring frontend and backend development.
+I enjoy turning what I learn into practical projects with clear, maintainable code.
 
 ## Technical Toolkit
 
