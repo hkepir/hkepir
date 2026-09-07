@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/name-light.svg">
-  <img src="./assets/name-light.svg" alt="Hilal Kepir" width="280" height="46">
+  <img src="./assets/name-dark.svg" alt="Hilal Kepir" width="280" height="46">
+<br>
+<img src="./assets/crescent-divider-dark.gif" alt="Animated crescent divider" width="100%">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/crescent-divider-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/crescent-divider-light.gif">
-  <img src="./assets/crescent-divider-light.gif" alt="Animated crescent divider" width="100%">
+  <img src="./assets/name-dark.svg" alt="Hilal Kepir" width="280" height="46">
+<br>
+<img src="./assets/crescent-divider-dark.gif" alt="Animated crescent divider" width="100%">
 </picture>
 
 **Computer Science Student · Software Development**
