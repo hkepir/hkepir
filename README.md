@@ -21,9 +21,3 @@ I enjoy turning what I learn into practical projects with clear, maintainable co
 ### [cs-btu-dersnotlari](https://github.com/hkepir/cs-btu-dersnotlari)
 
 Computer Science course notes, code examples, and exercises organized for study and review.
-
-## GitHub Activity
-
-<img src="./assets/activity.svg"
-     alt="GitHub contribution distribution over the last 365 days"
-     width="480">
